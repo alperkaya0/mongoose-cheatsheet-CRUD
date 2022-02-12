@@ -100,6 +100,6 @@ Fruit.deleteMany({review : "Hehe spam."},function(err) {
         console.log(err);
     } else {
         console.log("Successfully deleted spams.");
-    }    
+    }
 });
 */
