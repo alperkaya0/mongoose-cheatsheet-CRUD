@@ -1,5 +1,5 @@
 # Mongoose CRUD Cheatsheet
-# Operations :
+# Content :
 ### Create One
 ### Read
 ### Delete One
